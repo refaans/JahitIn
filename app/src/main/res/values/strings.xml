@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">JahitIn</string>
+
+<!--    Log In page-->
+    <string name="login_username">Email or Username</string>
+    <string name="login_password">Password</string>
+    <string name="forget_password">Forgotten your password?</string>
+    <string name="login_button">Log In</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign up here!</string>
+
+    <!--    Register Page-->
+    <string name="register_full_name">Full Name</string>
+    <string name="register_username">Username</string>
+    <string name="register_email">Email</string>
+    <string name="register_phone">Phone Number</string>
+    <string name="password_confirmation">Password Confirmation</string>
+    <string name="tailor">You\'re a tailor?</string>
+    <string name="click_here">Sign Up as a tailor here!</string>
+    <string name="sign_up_button">Sign Up</string>
+
+    <string name="todo">TODO</string>
+</resources>
