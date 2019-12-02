@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">JahitIn</string>
 
-<!--    Log In page-->
+    <!--    Log In page-->
     <string name="login_username">Email or Username</string>
     <string name="login_password">Password</string>
     <string name="forget_password">Forgotten your password?</string>

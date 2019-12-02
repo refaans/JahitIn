@@ -1,42 +1,34 @@
 {
   "project_info": {
-    "project_number": "504991558632",
-    "firebase_url": "https://jahitin-5d5d3.firebaseio.com",
-    "project_id": "jahitin-5d5d3",
-    "storage_bucket": "jahitin-5d5d3.appspot.com"
+    "project_number": "1077208878909",
+    "firebase_url": "https://jahitin-26680.firebaseio.com",
+    "project_id": "jahitin-26680",
+    "storage_bucket": "jahitin-26680.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:504991558632:android:ac69d9e99382f8b866d25d",
+        "mobilesdk_app_id": "1:1077208878909:android:7f6ac3b1fe43aec49ebf54",
         "android_client_info": {
           "package_name": "com.tikusrpl.jahitin"
         }
       },
       "oauth_client": [
         {
-          "client_id": "504991558632-lk84q4sphu87trks37tj0smbv66a3e5c.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.tikusrpl.jahitin",
-            "certificate_hash": "c35ed318f4ce1048cf00710376bfd8cd61896931"
-          }
-        },
-        {
-          "client_id": "504991558632-elbp281qsc2i4psnuh1ufq925ojuhd5o.apps.googleusercontent.com",
+          "client_id": "1077208878909-jof8692rtjlrstqmavts62hq5luqhvv0.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAFkErvLiyFgZVDVThYmCxtC9ClnQllLo4"
+          "current_key": "AIzaSyBxOPs0lxEg_-xw973OdXx0-WJFSpdYyWM"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "504991558632-elbp281qsc2i4psnuh1ufq925ojuhd5o.apps.googleusercontent.com",
+              "client_id": "1077208878909-jof8692rtjlrstqmavts62hq5luqhvv0.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
