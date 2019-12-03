@@ -16,8 +16,10 @@
     <string name="register_phone">Phone Number</string>
     <string name="password_confirmation">Password Confirmation</string>
     <string name="tailor">You\'re a tailor?</string>
-    <string name="click_here">Sign Up as a tailor here!</string>
+    <string name="click_here">Sign Up here!</string>
     <string name="sign_up_button">Sign Up</string>
+
+    <string name="not_tailor">You\'re not a tailor?</string>
 
     <string name="todo">TODO</string>
 </resources>

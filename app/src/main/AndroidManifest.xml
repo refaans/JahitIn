@@ -9,7 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".RegisterTailorActivity"></activity>
+        <activity android:name=".ShoppingCartActivity"></activity>
+        <activity android:name=".CheckOutActivity" />
+        <activity android:name=".RegisterTailorActivity" />
         <activity
             android:name=".RegisterActivity"
             android:theme="@style/SplashTheme" />
