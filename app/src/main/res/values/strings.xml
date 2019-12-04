@@ -1,5 +1,11 @@
 <resources>
     <string name="app_name">JahitIn</string>
+    
+    <!--    Bottom Navbar-->
+    <string name="home">Home</string>
+    <string name="fabric">Fabric Catalog</string>
+    <string name="catalog_clothes">Clothes Catalog</string>
+    <string name="profile">Profile</string>
 
     <!--    Log In page-->
     <string name="login_username">Email or Username</string>
