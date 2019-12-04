@@ -55,6 +55,7 @@ public class LoginActivity extends AppCompatActivity {
         });
     }
 
+    //Cek isi form login
     private void checkLogin(String id, String pw) {
         dbRef = db.getReference().child("account").child(id);
 

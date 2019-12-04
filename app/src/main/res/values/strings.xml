@@ -21,5 +21,9 @@
 
     <string name="not_tailor">You\'re not a tailor?</string>
 
+    <!--    CheckOut Page-->
+    <string name="product_name">This is Product Name</string>
+    <string name="product_qty"> x 1</string>
+
     <string name="todo">TODO</string>
 </resources>
